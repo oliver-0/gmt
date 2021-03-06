@@ -16,6 +16,7 @@
     "core-js": "^3.8.3",
     "nuxt": "^2.14.12",
     "nuxt-buefy": "^0.4.4",
+    "regenerator-runtime": "^0.13.7",
     "sass": "^1.32.8"
   },
   "devDependencies": {
