@@ -2,7 +2,7 @@
 
 ## How to create a Portfolio content Pull Request
 
-1. Open [this file creation page](https://www.example.com) in a new tab
+1. Open [this file creation page](https://github.com/oliver-0/gmt/new/master/content/portfolio/) in a new tab
 2. Enter a relevant filename, ending in `.md`, e.g. `TimConLAN-showreel.md`
 3. Paste the following template into the body of the file:
     ```
