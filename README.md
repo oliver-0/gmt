@@ -30,3 +30,7 @@
 I will be notified by email, and upon approval of the Pull Request, your content will be published.
 
 You can preview your Pull Request once it has finished processing (~2min) - the github-actions bot will post a preview url in the comments of your Pull Request, so look out for that!
+
+Example Pull Request:
+
+![Example Pull Request image](/.github/example-PR.PNG?raw=true "Example Pull Request")
