@@ -1,5 +1,5 @@
 <template>
-  <section class="hero is-link is-medium">
+  <section class="hero is-primary is-large">
     <div class="hero-body">
       <p class="title">
         hero section

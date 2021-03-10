@@ -21,7 +21,7 @@
                 :src="`${item.youtubeEmbed}`"
                 frameborder="0"
                 allowfullscreen
-              ></iframe>
+              />
             </figure>
             <div class="media-content">
               <div class="content">

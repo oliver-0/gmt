@@ -2,7 +2,7 @@
   <div class="section">
     <div class="container">
       <div class="content">
-        bottom section
+        Intro
       </div>
     </div>
   </div>
@@ -10,7 +10,7 @@
 
 <script>
 export default {
-  name: 'Bottom',
+  name: 'IntroSection',
 };
 </script>
 

@@ -1,12 +1,13 @@
 <template>
   <div>
     <TopNavbar />
-    <HeroSection />
+    <IntroSection />
     <section class="section">
       <div class="container">
         <Carousel />
       </div>
     </section>
+    <DetailsSection />
     <Bottom />
   </div>
 </template>
@@ -17,7 +18,7 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss" scoped>
 .container {
   margin: 0 auto;
   min-height: 100vh;

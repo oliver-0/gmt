@@ -4,9 +4,9 @@
   </div>
 </template>
 
-<style>
+<style lang="scss">
 html {
-  font-family:
+  /* font-family:
     'Source Sans Pro',
     -apple-system,
     BlinkMacSystemFont,
@@ -14,7 +14,8 @@ html {
     Roboto,
     'Helvetica Neue',
     Arial,
-    sans-serif;
+    sans-serif; */
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
