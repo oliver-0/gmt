@@ -1,5 +1,5 @@
 <template>
-  <b-navbar fixed-top centered wrapper-class="container" :shadow="false">
+  <b-navbar fixed-top centered wrapper-class="container" :shadow="true">
     <template #brand>
       <b-navbar-item tag="div">
         <img
@@ -35,7 +35,7 @@
       </b-navbar-item> -->
       <b-navbar-item tag="div">
         <div class="buttons">
-          <a class="button is-link">
+          <a class="button is-primary">
             <!-- <strong>Contact Us</strong> -->
             Contact Us
           </a>

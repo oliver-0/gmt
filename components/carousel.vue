@@ -1,5 +1,5 @@
 <template>
-  <b-carousel>
+  <b-carousel pause-text="Paused">
     <b-carousel-item v-for="(carousel, i) in carousels" :key="i">
       <section :class="`hero is-medium is-${carousel.color}`">
         <div class="hero-body has-text-centered">
@@ -21,6 +21,11 @@ export default {
         { text: 'Slide 1', color: 'primary' },
         { text: 'Slide 2', color: 'link' },
         { text: 'Slide 3', color: 'info' },
+      ],
+      carouselsLong: [
+        { text: 'Slide 1', color: 'primary' },
+        { text: 'Slide 2', color: 'link' },
+        { text: 'Slide 3', color: 'info' },
         { text: 'Slide 4', color: 'success' },
         { text: 'Slide 5', color: 'warning' },
         { text: 'Slide 6', color: 'danger' },
@@ -32,7 +37,6 @@ export default {
 
 <style lang="scss" scoped>
 .carousel {
-  // width: 400px;
   text-align: center;
 }
 </style>
