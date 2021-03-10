@@ -28,7 +28,7 @@ export default {
       },
       {
         rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,300&display=swap'
+        href: 'https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,700&family=Poppins:ital,wght@0,500;1,500&family=Roboto:ital,wght@0,400;0,500;0,700;1,300;1,500;1,700;&display=swap'
       }
     ]
   },

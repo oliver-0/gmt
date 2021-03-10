@@ -1,16 +1,23 @@
 // Import Bulma's core
 @import "~bulma/sass/utilities/_all";
 
+// fonts
+$body-family: 'Roboto', sans-serif;
+$title-family: 'Poppins', sans-serif;
+$title-weight: 500;
+
 // Set your colors
 $primary: #59afe0;
 $primary-light: findLightColor($primary);
 $primary-dark: findDarkColor($primary);
 $primary-invert: findColorInvert($primary);
-$info: #02bb89;
+// $info: #21ce86;
+// $info: rgb(209,226,251);
+$info: rgb(157,194,253);
 $info-light: findLightColor($info);
 $info-dark: findDarkColor($info);
 $info-invert: findColorInvert($info);
-$link: #606aba;
+$link: rgb(118, 149, 236);
 $info-light: findLightColor($link);
 $info-dark: findDarkColor($link);
 $info-invert: findColorInvert($link);
