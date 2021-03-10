@@ -8,6 +8,7 @@
         </div>
       </div>
     </div>
+    <Bottom />
   </div>
 </template>
 

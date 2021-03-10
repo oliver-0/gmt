@@ -14,6 +14,7 @@
       </div>
     </section>
     <DetailsSection />
+    <SignOffCard />
     <Bottom />
   </div>
 </template>
